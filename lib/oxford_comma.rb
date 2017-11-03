@@ -7,7 +7,7 @@ if array.size == 2
 end
 if array.size >= 3
   last = array.pop
-return array.join(", ") "and" last  
+return array.join(", ") "and" last
 end
 
 
