@@ -5,9 +5,7 @@ if array.size == 2
 end
 elsif array.size == 3
 end
-  
 
 
 
-array.join(",")
 end
