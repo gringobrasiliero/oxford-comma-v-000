@@ -5,8 +5,10 @@ end
 if array.size == 2
   return array.join(" and ")
 end
-#elsif array.size == 3
-#end
+if array.size >= 3
+  last = array.pop
+return array.join(", ") "and" last  
+end
 
 
 
