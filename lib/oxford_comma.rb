@@ -3,7 +3,7 @@ if array.size == 1
   return array.join
 end
 if array.size == 2
-  array.join(" and ")
+  return array.join(" and ")
 end
 #elsif array.size == 3
 #end
